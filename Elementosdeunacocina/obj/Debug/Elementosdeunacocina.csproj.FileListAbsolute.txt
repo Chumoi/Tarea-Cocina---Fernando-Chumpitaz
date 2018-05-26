@@ -1,0 +1,2 @@
+C:\Users\a14e203\source\repos\Elementosdeunacocina\Elementosdeunacocina\obj\Debug\Elementosdeunacocina.csprojResolveAssemblyReference.cache
+C:\Users\a14e203\source\repos\Elementosdeunacocina\Elementosdeunacocina\obj\Debug\Elementosdeunacocina.csproj.CoreCompileInputs.cache
